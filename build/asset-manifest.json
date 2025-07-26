@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/HappinessPlans/static/css/main.00289a5d.css",
+    "main.js": "/HappinessPlans/static/js/main.af1c11b0.js",
+    "static/media/1.jpg": "/HappinessPlans/static/media/1.e0df8df351c146426bbe.jpg",
+    "static/media/3.jpg": "/HappinessPlans/static/media/3.49f7e06bad8e8addf4b6.jpg",
+    "static/media/2.jpg": "/HappinessPlans/static/media/2.1712d01f0ceb1951589b.jpg",
+    "static/media/hero.png": "/HappinessPlans/static/media/hero.3f55b7b7762f8b209d54.png",
+    "static/media/about.jpg": "/HappinessPlans/static/media/about.6ae9d5090ee6d0458e4a.jpg",
+    "index.html": "/HappinessPlans/index.html",
+    "main.00289a5d.css.map": "/HappinessPlans/static/css/main.00289a5d.css.map",
+    "main.af1c11b0.js.map": "/HappinessPlans/static/js/main.af1c11b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00289a5d.css",
+    "static/js/main.af1c11b0.js"
+  ]
+}
